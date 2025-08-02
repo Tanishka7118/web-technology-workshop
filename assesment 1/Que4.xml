@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="101">
+        <name>Palak</name>
+        <salary>50000</salary>
+        <department>IT</department>
+    </employee>
+    <employee id="105">
+        <name>Tanishka</name>
+        <salary>60000</salary>
+        <department>Finance</department>
+    </employee>
+    <employee id="106">
+        <name>Simran</name>
+        <salary>55000</salary>
+        <department>HR</department>
+    </employee>
+    <employee id="107">
+        <name>Sweta</name>
+        <salary>50000</salary>
+        <department>Advicer</department>
+    </employee>
+</employees>
