@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student [                          <!--Declare the DTD rules-->
+    <!ELEMENT student (name, age, course)>     <!--in order-->
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)> <!--PCDATA means text data only-->
+    <!ELEMENT course (#PCDATA)>
+]>
+<student>
+    <name>Iti Yadav</name>
+    <age>20</age>
+    <course>B.Tech CSE</course>
+</student>

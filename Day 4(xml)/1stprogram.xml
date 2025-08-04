@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<niet>
-    <department name="CSE">
+<?xml version="1.0" encoding="UTF-8"?>     <!--XML declaration-->
+<niet>                    <!--root element-->
+    <department name="CSE">                     <!--all these inside this are child elements-->
         <subject>Maths</subject>
         <subject>Physics</subject>
         <subject>DSA</subject>
@@ -16,3 +16,11 @@
         <subject>Sensors and Actuators</subject>
     </department>
 </niet>
+
+
+
+<!--to view
+1-save the code withh extension .xml
+2-Go to file manager
+3-open file from there
+-->
